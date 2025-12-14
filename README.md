@@ -139,4 +139,15 @@ This project is intended for **educational and ethical testing purposes** only. 
 ESP32, Evil Twin, WiFi Hacking, Deauthentication, Captive Portal, HTML, CSS, JavaScript, Cybersecurity, Ethical Hacking, ESP32 WiFi, IoT, WiFi Pentesting
 ```
 
+### Name: Davonte Delancey : NOTES FOR CSN150
+
+### Equipment Used: 
+
+### Tools used:
+
+Steps I Followed: 
+
+Problems / Solutions:
+
+Final Report 
 ---
