@@ -142,12 +142,26 @@ ESP32, Evil Twin, WiFi Hacking, Deauthentication, Captive Portal, HTML, CSS, Jav
 ### Name: Davonte Delancey : NOTES FOR CSN150
 
 ### Equipment Used: 
+1. ESP32
+2. Data Cable
+3. Laptop 
 
 ### Tools used:
+1. JavaScript
+2. HTML
+3. CSS
 
-Steps I Followed: 
+### Steps I Followed: 
+1. Launch the Deauthentication Attack: Force devices off the legitimate WiFi network.
+2. Start the Fake AP: Broadcast your rogue access point.
+3. Use the Captive Portal: When users attempt to reconnect, they are directed to a fake login page.
+4. Capture WiFi Credentials: Credentials entered by users are logged on the ESP32.
 
-Problems / Solutions:
 
-Final Report 
+### Problems / Solutions:
+1. I was having a very hard time logging back into the "WiPhi" connection to gather the stolen password. /  I logged back in through my computer and seen the password previously typed during the project.
+
+### Final Report:
+  Overall, this experience taught me that even very inexspesive boards have the ability to do damage. Although the deauth feature wasn't available, the portal showing all ssids in range gave this board all it needed to still be used for cyber work. 
+  
 ---
